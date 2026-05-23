@@ -1,6 +1,7 @@
 #!/bin/bash
-
-echo "peraiah":: hii veera how are you.
-echo "veera"::i am good peraiah what abou you.
-echo "peraiah":: i am aslo good veera what about ur job.
-echo "veera":: good peraiah thank you.
+person1=ramu
+person2=ravi
+echo "$person1":: hii $person2 how are you.
+echo "$person2"::i am good $person1 what abou you.
+echo "$person1":: i am aslo good $person2 what about ur job.
+echo "$person2":: good $person1 thank you.
