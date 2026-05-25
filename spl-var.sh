@@ -10,3 +10,5 @@ end_time=$(date +%s)
 total_time=$(($end_time - $start_time))
 
 echo "script executed time is:${total_time}"
+
+echo "current dir: $PWD"
