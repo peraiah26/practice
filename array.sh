@@ -1,5 +1,5 @@
 #!/bin/bash
 
-LEADERS = ( "peraiah" "raj" "ganesh" "venkat")
+LEADERS = ( "peraiah" "raj" "ganesh" "venkat" )
 
-echo "All leaders: ${LEADERS [@]}"
+echo "All leaders: ${LEADERS [*]}"
